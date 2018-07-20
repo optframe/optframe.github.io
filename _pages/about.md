@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "OptFrame - Optimization Framework"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+excerpt: "An optimization framework for the resolution of complex combinatorial optimization problems."
 toc: true
 
 feature_row:
@@ -29,7 +29,7 @@ Thanks a lot SourceForge/GitHub!
 [ICENSE GNU Lesser General Public License v3](https://github.com/optframe/optframe/blob/master/LICENSE)
 
 ## Our team
-Our team of contributors already counted with researchers and students from different levels of studies and backgrounds.
+Our team of [OptFrame contributors](https://github.com/optframe/optframe/graphs/contributors). already counted with researchers and students from different levels of studies and backgrounds.
 
 **OptFrame current maintainers:**
 
