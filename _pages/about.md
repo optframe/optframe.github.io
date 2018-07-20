@@ -29,7 +29,7 @@ Thanks a lot SourceForge/GitHub!
 [ICENSE GNU Lesser General Public License v3](https://github.com/optframe/optframe/blob/master/LICENSE)
 
 ## Our team
-Our team of [OptFrame contributors](https://github.com/optframe/optframe/graphs/contributors). already counted with researchers and students from different levels of studies and backgrounds.
+Our team of [contributors](https://github.com/optframe/optframe/graphs/contributors) already counted with researchers and students from different levels of studies and backgrounds.
 
 **OptFrame current maintainers:**
 
